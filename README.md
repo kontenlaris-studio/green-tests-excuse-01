@@ -1,3 +1,15 @@
+<div align="center">
+
+<img src="assets/logo.png?v=1" width="280">
+
+<p><em>Green tests, nothing works: the excuse contest.</em></p>
+
+![Python](https://img.shields.io/badge/Python-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931)
+![License: MIT](https://img.shields.io/badge/License-MIT-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931)
+![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931)
+
+</div>
+
 # green-tests-excuse-01
 
 [![make.fun · u-kiencx-green-tests-nothing-works-the-excuse-contest-8de010bc](https://make.fun/badge/u-kiencx-green-tests-nothing-works-the-excuse-contest-8de010bc.svg)](https://make.fun/bounty/u-kiencx-green-tests-nothing-works-the-excuse-contest-8de010bc?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-green-tests-nothing-works-the-excuse-contest-8de010bc)
